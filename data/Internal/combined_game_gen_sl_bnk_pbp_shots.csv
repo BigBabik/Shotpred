@@ -1,0 +1,166 @@
+GAME_ID,ABS_TIME,gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,ABS_TIME
+21400890.0,16.0,0021400890,2,PT11M44.00S,1,1610612747,LAL,201961,Ellington,W. Ellington,234,47,24,Made,1,0,3,3,v,Ellington 24' 3PT Jump Shot (3 PTS) (Kelly 1 AST),Made Shot,Jump Shot,1,0,3,16.0
+21400890.0,31.0,0021400890,3,PT11M29.00S,1,1610612766,CHA,201945,Henderson,G. Henderson,125,131,18,Missed,1,,,0,h,MISS Henderson 18' Jump Shot,Missed Shot,Jump Shot,1,0,4,31.0
+21400890.0,46.0,0021400890,5,PT11M14.00S,1,1610612747,LAL,203135,Sacre,R. Sacre,34,167,17,Made,1,0,5,5,v,Sacre 17' Jump Shot (2 PTS) (Kelly 2 AST),Made Shot,Jump Shot,1,0,6,46.0
+21400890.0,64.0,0021400890,6,PT10M56.00S,1,1610612766,CHA,2590,Williams,M. Williams,-163,121,20,Missed,1,,,0,h,MISS Mo. Williams 20' Jump Shot,Missed Shot,Jump Shot,1,0,7,64.0
+21400890.0,77.0,0021400890,8,PT10M43.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,193,167,26,Missed,1,,,0,v,MISS Clarkson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,9,77.0
+21400890.0,88.0,0021400890,10,PT10M32.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,17,173,17,Missed,1,,,0,h,MISS Kidd-Gilchrist 17' Jump Shot,Missed Shot,Jump Shot,1,0,11,88.0
+21400890.0,99.0,0021400890,12,PT10M21.00S,1,1610612747,LAL,203135,Sacre,R. Sacre,-4,67,7,Missed,1,,,0,v,MISS Sacre 7' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,0,13,99.0
+21400890.0,122.0,0021400890,14,PT09M58.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,6,197,20,Missed,1,,,0,h,MISS Kidd-Gilchrist 20' Jump Shot,Missed Shot,Jump Shot,1,0,16,122.0
+21400890.0,130.0,0021400890,16,PT09M50.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,136,116,18,Made,1,0,7,7,v,Clarkson 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0,18,130.0
+21400890.0,147.0,0021400890,17,PT09M33.00S,1,1610612766,CHA,2744,Jefferson,A. Jefferson,4,61,6,Missed,1,,,0,h,MISS Jefferson 6' Hook Shot,Missed Shot,Hook Shot,1,0,19,147.0
+21400890.0,174.0,0021400890,24,PT09M06.00S,1,1610612747,LAL,2430,Boozer,C. Boozer,-4,175,18,Missed,1,,,0,v,MISS Boozer 18' Jump Shot,Missed Shot,Jump Shot,1,0,24,174.0
+21400890.0,184.0,0021400890,27,PT08M56.00S,1,1610612747,LAL,201961,Ellington,W. Ellington,171,20,17,Made,1,2,9,11,v,Ellington 17' Jump Shot (5 PTS) (Kelly 3 AST),Made Shot,Jump Shot,1,0,26,184.0
+21400890.0,199.0,0021400890,28,PT08M41.00S,1,1610612766,CHA,2744,Jefferson,A. Jefferson,-10,3,1,Made,1,4,9,13,h,Jefferson 1' Layup (4 PTS),Made Shot,Layup Shot,1,0,27,199.0
+21400890.0,222.0,0021400890,29,PT08M18.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,-2,83,8,Missed,1,,,0,v,MISS Kelly 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0,28,222.0
+21400890.0,234.0,0021400890,31,PT08M06.00S,1,1610612766,CHA,201945,Henderson,G. Henderson,-213,19,21,Made,1,6,9,15,h,Henderson 21' Jump Shot (2 PTS) (Mo. Williams 1 AST),Made Shot,Jump Shot,1,0,30,234.0
+21400890.0,246.0,0021400890,32,PT07M54.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,-100,112,15,Made,1,6,11,17,v,Clarkson 15' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0,31,246.0
+21400890.0,260.0,0021400890,33,PT07M40.00S,1,1610612766,CHA,2744,Jefferson,A. Jefferson,15,105,11,Made,1,8,11,19,h,Jefferson 11' Turnaround Jump Shot (6 PTS) (Zeller 1 AST),Made Shot,Turnaround Jump Shot,1,0,32,260.0
+21400890.0,276.0,0021400890,34,PT07M24.00S,1,1610612747,LAL,201961,Ellington,W. Ellington,56,242,25,Missed,1,,,0,v,MISS Ellington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,33,276.0
+21400890.0,292.0,0021400890,36,PT07M08.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,34,192,19,Made,1,10,11,21,h,Zeller 19' Jump Shot (2 PTS) (Mo. Williams 2 AST),Made Shot,Jump Shot,1,0,35,292.0
+21400890.0,320.0,0021400890,37,PT06M40.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,-196,157,25,Made,1,10,14,24,v,Kelly 25' 3PT Jump Shot (3 PTS) (Clarkson 1 AST),Made Shot,Jump Shot,1,0,36,320.0
+21400890.0,340.0,0021400890,38,PT06M20.00S,1,1610612766,CHA,2590,Williams,M. Williams,176,102,20,Made,1,12,14,26,h,Mo. Williams 20' Jump Shot (2 PTS) (Henderson 1 AST),Made Shot,Jump Shot,1,0,37,340.0
+21400890.0,362.0,0021400890,41,PT05M58.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,-108,246,27,Missed,1,,,0,v,MISS Clarkson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,40,362.0
+21400890.0,373.0,0021400890,43,PT05M47.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,-10,9,1,Made,1,14,14,28,h,Zeller 1' Layup (4 PTS) (Henderson 2 AST),Made Shot,Layup Shot,1,0,42,373.0
+21400890.0,385.0,0021400890,49,PT05M35.00S,1,1610612747,LAL,203135,Sacre,R. Sacre,-27,148,15,Made,1,15,16,31,v,Sacre 15' Jump Shot (4 PTS) (Lin 1 AST),Made Shot,Jump Shot,1,0,46,385.0
+21400890.0,401.0,0021400890,50,PT05M19.00S,1,1610612766,CHA,2590,Williams,M. Williams,100,101,14,Missed,1,,,0,h,MISS Mo. Williams 14' Jump Shot,Missed Shot,Jump Shot,1,0,47,401.0
+21400890.0,416.0,0021400890,52,PT05M04.00S,1,1610612747,LAL,202391,Lin,J. Lin,-64,249,26,Made,1,15,19,34,v,Lin 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0,49,416.0
+21400890.0,433.0,0021400890,53,PT04M47.00S,1,1610612766,CHA,2744,Jefferson,A. Jefferson,40,148,15,Missed,1,,,0,h,MISS Jefferson 15' Jump Shot,Missed Shot,Jump Shot,1,0,50,433.0
+21400890.0,438.0,0021400890,55,PT04M42.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,10,4,1,Made,1,17,19,36,h,Kidd-Gilchrist 1' Driving Layup (2 PTS) (Zeller 2 AST),Made Shot,Driving Layup Shot,1,0,52,438.0
+21400890.0,452.0,0021400890,56,PT04M28.00S,1,1610612747,LAL,2430,Boozer,C. Boozer,-90,67,11,Made,1,17,21,38,v,Boozer 11' Jump Shot (2 PTS) (Lin 2 AST),Made Shot,Jump Shot,1,0,53,452.0
+21400890.0,477.0,0021400890,63,PT04M03.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,0,165,17,Missed,1,,,0,v,MISS Clarkson 17' Driving Jump Shot,Missed Shot,Driving Jump shot,1,0,60,477.0
+21400890.0,482.0,0021400890,65,PT03M58.00S,1,1610612766,CHA,2590,Williams,M. Williams,-134,26,14,Made,1,19,21,40,h,Mo. Williams 14' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0,62,482.0
+21400890.0,497.0,0021400890,69,PT03M43.00S,1,1610612747,LAL,201941,Hill,J. Hill,-157,19,16,Missed,1,,,0,v,MISS Hill 16' Jump Shot,Missed Shot,Jump Shot,1,0,65,497.0
+21400890.0,504.0,0021400890,71,PT03M36.00S,1,1610612766,CHA,2590,Williams,M. Williams,-18,4,2,Made,1,22,21,43,h,Mo. Williams 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0,67,504.0
+21400890.0,524.0,0021400890,73,PT03M16.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,1,3,0,Made,1,24,21,45,h,Kidd-Gilchrist Layup (4 PTS),Made Shot,Layup Shot,1,0,70,524.0
+21400890.0,542.0,0021400890,74,PT02M58.00S,1,1610612747,LAL,201941,Hill,J. Hill,-46,183,19,Missed,1,,,0,v,MISS Hill 19' Jump Shot,Missed Shot,Jump Shot,1,0,71,542.0
+21400890.0,566.0,0021400890,77,PT02M34.00S,1,1610612747,LAL,202391,Lin,J. Lin,168,34,17,Made,1,24,23,47,v,Lin 17' Jump Shot (5 PTS),Made Shot,Jump Shot,1,0,75,566.0
+21400890.0,583.0,0021400890,78,PT02M17.00S,1,1610612766,CHA,101107,Williams,M. Williams,65,252,26,Missed,1,,,0,h,MISS Ma. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,76,583.0
+21400890.0,596.0,0021400890,80,PT02M04.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,162,200,26,Made,1,24,26,50,v,Clarkson 26' 3PT Jump Shot (7 PTS) (Lin 3 AST),Made Shot,Jump Shot,1,0,78,596.0
+21400890.0,617.0,0021400890,89,PT01M43.00S,1,1610612766,CHA,2590,Williams,M. Williams,70,157,17,Missed,1,,,0,h,MISS Mo. Williams 17' Jump Shot,Missed Shot,Jump Shot,1,0,83,617.0
+21400890.0,633.0,0021400890,91,PT01M27.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,47,175,18,Made,1,24,28,52,v,Clarkson 18' Jump Shot (9 PTS),Made Shot,Jump Shot,1,0,85,633.0
+21400890.0,658.0,0021400890,92,PT01M02.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,23,3,2,Missed,1,,,0,h,MISS Kidd-Gilchrist 2' Layup,Missed Shot,Layup Shot,1,0,86,658.0
+21400890.0,662.0,0021400890,94,PT00M58.80S,1,1610612747,LAL,202325,Johnson,W. Johnson,0,1,0,Made,1,24,30,54,v,Johnson Alley Oop Dunk (2 PTS) (Clarkson 2 AST),Made Shot,Alley Oop Dunk Shot,1,0,89,661.2
+21400890.0,683.0,0021400890,95,PT00M37.80S,1,1610612766,CHA,101107,Williams,M. Williams,-232,33,0,Made,1,27,30,57,h,Ma. Williams 3PT Jump Shot (3 PTS) (Roberts 1 AST),Made Shot,Jump Shot,1,0,90,682.2
+21400890.0,690.0,0021400890,96,PT00M30.90S,1,1610612747,LAL,202391,Lin,J. Lin,-24,189,19,Missed,1,,,0,v,MISS Lin 19' Jump Shot,Missed Shot,Jump Shot,1,0,91,689.1
+21400890.0,719.0,0021400890,99,PT00M01.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,-122,235,26,Missed,1,,,0,v,MISS Clarkson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,94,719.0
+21400890.0,743.0,0021400890,105,PT11M37.00S,2,1610612747,LAL,202391,Lin,J. Lin,17,3,2,Missed,1,,,0,v,MISS Lin 2' Layup,Missed Shot,Layup Shot,1,0,100,743.0
+21400890.0,750.0,0021400890,107,PT11M30.00S,2,1610612766,CHA,203148,Roberts,B. Roberts,-235,11,24,Missed,1,,,0,h,MISS Roberts 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,103,750.0
+21400890.0,767.0,0021400890,109,PT11M13.00S,2,1610612747,LAL,201941,Hill,J. Hill,-119,105,16,Missed,1,,,0,v,MISS Hill 16' Jump Shot,Missed Shot,Jump Shot,1,0,105,767.0
+21400890.0,779.0,0021400890,111,PT11M01.00S,2,1610612766,CHA,202362,Stephenson,L. Stephenson,-23,107,11,Made,1,29,30,59,h,Stephenson 11' Pullup Jump Shot (2 PTS) (Roberts 2 AST),Made Shot,Pullup Jump shot,1,0,107,779.0
+21400890.0,803.0,0021400890,113,PT10M37.00S,2,1610612747,LAL,201941,Hill,J. Hill,24,107,11,Missed,1,,,0,v,MISS Hill 11' Jump Shot,Missed Shot,Jump Shot,1,0,108,803.0
+21400890.0,814.0,0021400890,115,PT10M26.00S,2,1610612766,CHA,202362,Stephenson,L. Stephenson,103,124,16,Missed,1,,,0,h,MISS Stephenson 16' Jump Shot,Missed Shot,Jump Shot,1,0,110,814.0
+21400890.0,821.0,0021400890,117,PT10M19.00S,2,1610612747,LAL,202391,Lin,J. Lin,-5,17,2,Missed,1,,,0,v,MISS Lin 2' Layup,Missed Shot,Layup Shot,1,0,112,821.0
+21400890.0,848.0,0021400890,124,PT09M52.00S,2,1610612747,LAL,201941,Hill,J. Hill,-2,170,17,Missed,1,,,0,v,MISS Hill 17' Jump Shot,Missed Shot,Jump Shot,1,0,119,848.0
+21400890.0,853.0,0021400890,126,PT09M47.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-11,0,1,Made,1,32,30,62,h,Kidd-Gilchrist 1' Layup (6 PTS) (Stephenson 1 AST),Made Shot,Layup Shot,1,0,122,853.0
+21400890.0,894.0,0021400890,135,PT09M06.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,-8,9,1,Made,1,34,32,66,v,Boozer 1' Layup (4 PTS) (Davis 1 AST),Made Shot,Layup Shot,1,0,129,894.0
+21400890.0,908.0,0021400890,136,PT08M52.00S,2,1610612766,CHA,101107,Williams,M. Williams,9,217,22,Made,1,36,32,68,h,Ma. Williams 22' Jump Shot (5 PTS) (Henderson 3 AST),Made Shot,Jump Shot,1,0,130,908.0
+21400890.0,920.0,0021400890,137,PT08M40.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,36,173,18,Made,1,36,34,70,v,Boozer 18' Jump Shot (6 PTS) (Lin 4 AST),Made Shot,Jump Shot,1,0,131,920.0
+21400890.0,940.0,0021400890,138,PT08M20.00S,2,1610612766,CHA,101107,Williams,M. Williams,69,42,8,Made,1,38,34,72,h,Ma. Williams 8' Running Jump Shot (7 PTS) (Stephenson 2 AST),Made Shot,Running Jump Shot,1,0,132,940.0
+21400890.0,954.0,0021400890,139,PT08M06.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,-139,102,17,Missed,1,,,0,v,MISS Boozer 17' Jump Shot,Missed Shot,Jump Shot,1,0,133,954.0
+21400890.0,964.0,0021400890,146,PT07M56.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,1,53,5,Missed,1,,,0,h,MISS Henderson 5' Jump Shot,Missed Shot,Jump Shot,1,0,136,964.0
+21400890.0,970.0,0021400890,148,PT07M50.00S,2,1610612747,LAL,202334,Davis,E. Davis,0,1,0,Made,1,38,36,74,v,Davis Dunk (2 PTS) (Lin 5 AST),Made Shot,Dunk Shot,1,0,139,970.0
+21400890.0,994.0,0021400890,149,PT07M26.00S,2,1610612766,CHA,101107,Williams,M. Williams,-46,55,7,Missed,1,,,0,h,MISS Ma. Williams 7' Running Hook Shot,Missed Shot,Running Hook Shot,1,0,140,994.0
+21400890.0,1009.0,0021400890,151,PT07M11.00S,2,1610612747,LAL,202325,Johnson,W. Johnson,-78,203,22,Missed,1,,,0,v,MISS Johnson 22' Jump Shot,Missed Shot,Jump Shot,1,0,142,1009.0
+21400890.0,1042.0,0021400890,161,PT06M38.00S,2,1610612747,LAL,202334,Davis,E. Davis,-5,15,2,Made,1,38,40,78,v,Davis 2' Layup (4 PTS) (Lin 6 AST),Made Shot,Layup Shot,1,0,151,1042.0
+21400890.0,1052.0,0021400890,166,PT06M28.00S,2,1610612766,CHA,203148,Roberts,B. Roberts,73,250,26,Missed,1,,,0,h,MISS Roberts 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,155,1052.0
+21400890.0,1082.0,0021400890,175,PT05M58.00S,2,1610612766,CHA,2744,Jefferson,A. Jefferson,-150,25,15,Missed,1,,,0,h,MISS Jefferson 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0,162,1082.0
+21400890.0,1092.0,0021400890,177,PT05M48.00S,2,1610612747,LAL,202391,Lin,J. Lin,110,145,18,Missed,1,,,0,v,MISS Lin 18' Jump Shot,Missed Shot,Jump Shot,1,0,164,1092.0
+21400890.0,1105.0,0021400890,179,PT05M35.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,-117,164,20,Made,1,40,42,82,h,Henderson 20' Jump Shot (4 PTS) (Roberts 3 AST),Made Shot,Jump Shot,1,0,166,1105.0
+21400890.0,1132.0,0021400890,181,PT05M08.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,23,9,2,Missed,1,,,0,h,MISS Henderson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0,169,1132.0
+21400890.0,1150.0,0021400890,194,PT04M50.00S,2,1610612766,CHA,2744,Jefferson,A. Jefferson,64,15,7,Missed,1,,,0,h,MISS Jefferson 7' Jump Shot,Missed Shot,Jump Shot,1,0,181,1150.0
+21400890.0,1168.0,0021400890,196,PT04M32.00S,2,1610612747,LAL,201961,Ellington,W. Ellington,54,173,18,Missed,1,,,0,v,MISS Ellington 18' Jump Shot,Missed Shot,Jump Shot,1,0,183,1168.0
+21400890.0,1185.0,0021400890,198,PT04M15.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,157,15,16,Missed,1,,,0,h,MISS Henderson 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0,185,1185.0
+21400890.0,1203.0,0021400890,200,PT03M57.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,-108,131,17,Missed,1,,,0,v,MISS Boozer 17' Jump Shot,Missed Shot,Jump Shot,1,0,187,1203.0
+21400890.0,1228.0,0021400890,203,PT03M32.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,-5,7,1,Made,1,40,44,84,v,Boozer 1' Layup (8 PTS) (Clarkson 3 AST),Made Shot,Layup Shot,1,0,191,1228.0
+21400890.0,1245.0,0021400890,204,PT03M15.00S,2,1610612766,CHA,2744,Jefferson,A. Jefferson,-7,26,3,Made,1,42,44,86,h,Jefferson 3' Layup (8 PTS),Made Shot,Layup Shot,1,0,192,1245.0
+21400890.0,1269.0,0021400890,205,PT02M51.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,140,67,16,Missed,1,,,0,v,MISS Sacre 16' Jump Shot,Missed Shot,Jump Shot,1,0,193,1269.0
+21400890.0,1272.0,0021400890,206,PT02M48.00S,2,1610612747,LAL,202325,Johnson,W. Johnson,17,1,2,Missed,1,,,0,v,MISS Johnson 2' Putback Layup,Missed Shot,Putback Layup Shot,1,0,195,1272.0
+21400890.0,1273.0,0021400890,208,PT02M47.00S,2,1610612747,LAL,202325,Johnson,W. Johnson,10,6,1,Made,1,42,46,88,v,Johnson 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,0,197,1273.0
+21400890.0,1288.0,0021400890,211,PT02M32.00S,2,1610612766,CHA,2744,Jefferson,A. Jefferson,-7,6,1,Missed,1,,,0,h,MISS Jefferson 1' Layup,Missed Shot,Layup Shot,1,0,198,1288.0
+21400890.0,1293.0,0021400890,213,PT02M27.00S,2,1610612747,LAL,202325,Johnson,W. Johnson,176,181,25,Missed,1,,,0,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,200,1293.0
+21400890.0,1313.0,0021400890,220,PT02M07.00S,2,1610612766,CHA,2744,Jefferson,A. Jefferson,-13,3,1,Missed,1,,,0,h,MISS Jefferson 1' Layup,Missed Shot,Layup Shot,1,0,206,1313.0
+21400890.0,1333.0,0021400890,223,PT01M47.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,-229,26,0,Made,1,45,46,91,h,Henderson 3PT Jump Shot (7 PTS) (Mo. Williams 3 AST),Made Shot,Jump Shot,1,0,210,1333.0
+21400890.0,1367.0,0021400890,229,PT01M13.00S,2,1610612766,CHA,2744,Jefferson,A. Jefferson,-11,47,5,Made,1,47,48,95,h,Jefferson 5' Jump Shot (10 PTS) (Henderson 4 AST),Made Shot,Jump Shot,1,0,214,1367.0
+21400890.0,1387.0,0021400890,233,PT00M53.90S,2,1610612747,LAL,203903,Clarkson,J. Clarkson,12,266,27,Missed,1,,,0,v,MISS Clarkson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,217,1386.1
+21400890.0,1400.0,0021400890,236,PT00M40.90S,2,1610612747,LAL,201961,Ellington,W. Ellington,113,132,17,Missed,1,,,0,v,MISS Ellington 17' Jump Shot,Missed Shot,Jump Shot,1,0,221,1399.1
+21400890.0,1414.0,0021400890,238,PT00M26.60S,2,1610612766,CHA,2744,Jefferson,A. Jefferson,-152,53,16,Made,1,50,48,98,h,Jefferson 16' Jump Shot (13 PTS) (Mo. Williams 4 AST),Made Shot,Jump Shot,1,0,223,1413.4
+21400890.0,1435.0,0021400890,239,PT00M05.60S,2,1610612747,LAL,203903,Clarkson,J. Clarkson,24,77,8,Made,1,50,50,100,v,Clarkson 8' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,0,224,1434.4
+21400890.0,1439.0,0021400890,240,PT00M01.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,-163,269,31,Missed,1,,,0,h,MISS Henderson 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,225,1439.0
+21400890.0,1454.0,0021400890,245,PT11M46.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,1,0,Made,1,52,50,102,h,Zeller Driving Dunk (7 PTS) (Mo. Williams 5 AST),Made Shot,Driving Dunk Shot,1,0,229,1454.0
+21400890.0,1481.0,0021400890,246,PT11M19.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,12,0,1,Missed,1,,,0,v,MISS Clarkson 1' Layup,Missed Shot,Layup Shot,1,0,230,1481.0
+21400890.0,1487.0,0021400890,248,PT11M13.00S,3,1610612766,CHA,2590,Williams,M. Williams,1,48,5,Missed,1,,,0,h,MISS Mo. Williams 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0,232,1487.0
+21400890.0,1489.0,0021400890,249,PT11M11.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,13,3,1,Missed,1,,,0,h,MISS Kidd-Gilchrist 1' Layup,Missed Shot,Layup Shot,1,0,234,1489.0
+21400890.0,1518.0,0021400890,257,PT10M42.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,-51,154,16,Missed,1,,,0,h,MISS Henderson 16' Jump Shot,Missed Shot,Jump Shot,1,0,239,1518.0
+21400890.0,1543.0,0021400890,260,PT10M17.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-5,7,1,Made,1,54,52,106,h,Kidd-Gilchrist 1' Layup (8 PTS) (Mo. Williams 6 AST),Made Shot,Layup Shot,1,0,243,1543.0
+21400890.0,1568.0,0021400890,261,PT09M52.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,121,129,18,Missed,1,,,0,v,MISS Kelly 18' Jump Shot,Missed Shot,Jump Shot,1,0,244,1568.0
+21400890.0,1581.0,0021400890,263,PT09M39.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,99,151,18,Missed,1,,,0,h,MISS Zeller 18' Jump Shot,Missed Shot,Jump Shot,1,0,246,1581.0
+21400890.0,1593.0,0021400890,265,PT09M27.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,6,203,20,Missed,1,,,0,v,MISS Clarkson 20' Jump Shot,Missed Shot,Jump Shot,1,0,248,1593.0
+21400890.0,1607.0,0021400890,267,PT09M13.00S,3,1610612766,CHA,2590,Williams,M. Williams,2,272,27,Made,1,57,52,109,h,Mo. Williams 27' 3PT Jump Shot (10 PTS) (Henderson 5 AST),Made Shot,Jump Shot,1,0,250,1607.0
+21400890.0,1631.0,0021400890,268,PT08M49.00S,3,1610612747,LAL,203135,Sacre,R. Sacre,-130,26,13,Missed,1,,,0,v,MISS Sacre 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0,251,1631.0
+21400890.0,1638.0,0021400890,270,PT08M42.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,10,3,1,Made,1,59,52,111,h,Henderson 1' Layup (9 PTS) (Mo. Williams 7 AST),Made Shot,Layup Shot,1,0,253,1638.0
+,,0021400890,277,PT08M16.00S,3,1610612766,CHA,2590,Williams,M. Williams,111,149,19,Missed,1,,,0,h,MISS Mo. Williams 19' Jump Shot,Missed Shot,Jump Shot,1,0,258,1664.0
+,,0021400890,279,PT08M08.00S,3,1610612747,LAL,201961,Ellington,W. Ellington,152,64,16,Missed,1,,,0,v,MISS Ellington 16' Jump Shot,Missed Shot,Jump Shot,1,0,260,1672.0
+,,0021400890,281,PT07M57.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,0,1,0,Made,1,61,53,114,h,Henderson Dunk (11 PTS) (Mo. Williams 8 AST),Made Shot,Dunk Shot,1,0,262,1683.0
+,,0021400890,283,PT07M39.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,12,7,1,Made,1,63,53,116,h,Zeller 1' Layup (9 PTS),Made Shot,Layup Shot,1,0,265,1701.0
+,,0021400890,297,PT07M08.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,2,22,2,Made,1,66,55,121,h,Henderson 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0,273,1732.0
+,,0021400890,298,PT06M44.00S,3,1610612747,LAL,201961,Ellington,W. Ellington,17,14,2,Missed,1,,,0,v,MISS Ellington 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0,274,1756.0
+,,0021400890,301,PT06M21.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,-8,195,20,Missed,1,,,0,v,MISS Clarkson 20' Jump Shot,Missed Shot,Jump Shot,1,0,277,1779.0
+,,0021400890,303,PT06M04.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,-4,200,20,Missed,1,,,0,h,MISS Zeller 20' Jump Shot,Missed Shot,Jump Shot,1,0,279,1796.0
+,,0021400890,305,PT05M58.00S,3,1610612747,LAL,2430,Boozer,C. Boozer,0,1,0,Made,1,66,57,123,v,Boozer Dunk (13 PTS) (Kelly 4 AST),Made Shot,Dunk Shot,1,0,281,1802.0
+,,0021400890,306,PT05M33.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-5,31,3,Missed,1,,,0,h,MISS Kidd-Gilchrist 3' Jump Shot,Missed Shot,Jump Shot,1,0,282,1827.0
+,,0021400890,308,PT05M18.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,-62,25,7,Made,1,66,59,125,v,Clarkson 7' Turnaround Hook Shot (13 PTS) (Boozer 1 AST),Made Shot,Turnaround Hook Shot,1,0,285,1842.0
+,,0021400890,313,PT05M01.00S,3,1610612766,CHA,2590,Williams,M. Williams,-111,194,22,Missed,1,,,0,h,MISS Mo. Williams 22' Jump Shot,Missed Shot,Jump Shot,1,0,289,1859.0
+,,0021400890,316,PT04M37.00S,3,1610612747,LAL,203135,Sacre,R. Sacre,-133,135,19,Missed,1,,,0,v,MISS Sacre 19' Jump Shot,Missed Shot,Jump Shot,1,0,291,1883.0
+,,0021400890,325,PT04M01.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,72,246,26,Missed,1,,,0,v,MISS Kelly 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,298,1919.0
+,,0021400890,340,PT03M28.00S,3,1610612747,LAL,202391,Lin,J. Lin,48,157,16,Made,1,68,63,131,v,Lin 16' Jump Shot (7 PTS),Made Shot,Jump Shot,1,0,310,1952.0
+,,0021400890,341,PT03M05.00S,3,1610612766,CHA,2744,Jefferson,A. Jefferson,0,1,0,Made,1,70,63,133,h,Jefferson Dunk (15 PTS) (Mo. Williams 9 AST),Made Shot,Dunk Shot,1,0,311,1975.0
+,,0021400890,342,PT02M46.00S,3,1610612747,LAL,201941,Hill,J. Hill,147,107,18,Missed,1,,,0,v,MISS Hill 18' Jump Shot,Missed Shot,Jump Shot,1,0,312,1994.0
+,,0021400890,350,PT02M05.00S,3,1610612766,CHA,2590,Williams,M. Williams,-23,268,27,Missed,1,,,0,h,MISS Mo. Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,318,2035.0
+,,0021400890,352,PT01M53.00S,3,1610612747,LAL,202391,Lin,J. Lin,-15,78,8,Missed,1,,,0,v,MISS Lin 8' Jump Shot,Missed Shot,Jump Shot,1,0,320,2047.0
+,,0021400890,354,PT01M37.00S,3,1610612766,CHA,2744,Jefferson,A. Jefferson,-76,34,8,Missed,1,,,0,h,MISS Jefferson 8' Jump Shot,Missed Shot,Jump Shot,1,0,322,2063.0
+,,0021400890,356,PT01M28.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,100,88,13,Made,1,70,67,137,v,Clarkson 13' Jump Shot (15 PTS),Made Shot,Jump Shot,1,0,324,2072.0
+,,0021400890,357,PT01M10.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-146,22,15,Made,1,72,67,139,h,Kidd-Gilchrist 15' Jump Shot (10 PTS) (Mo. Williams 10 AST),Made Shot,Jump Shot,1,0,325,2090.0
+,,0021400890,358,PT00M49.90S,3,1610612747,LAL,203527,Kelly,R. Kelly,-10,15,2,Missed,1,,,0,v,MISS Kelly 2' Layup,Missed Shot,Layup Shot,1,0,326,2110.1
+,,0021400890,360,PT00M41.90S,3,1610612747,LAL,203527,Kelly,R. Kelly,236,14,24,Missed,1,,,0,v,MISS Kelly 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,329,2118.1
+,,0021400890,362,PT00M31.10S,3,1610612766,CHA,2744,Jefferson,A. Jefferson,-146,25,15,Made,1,74,67,141,h,Jefferson 15' Jump Shot (17 PTS),Made Shot,Jump Shot,1,0,331,2128.9
+,,0021400890,363,PT00M11.20S,3,1610612747,LAL,202391,Lin,J. Lin,201,159,26,Made,1,74,70,144,v,Lin 26' 3PT Jump Shot (10 PTS) (Clarkson 4 AST),Made Shot,Jump Shot,1,0,332,2148.8
+,,0021400890,369,PT11M46.00S,4,1610612747,LAL,201941,Hill,J. Hill,-41,127,13,Made,1,74,72,146,v,Hill 13' Jump Shot (2 PTS) (Lin 7 AST),Made Shot,Jump Shot,1,0,337,2174.0
+,,0021400890,370,PT11M29.00S,4,1610612766,CHA,203148,Roberts,B. Roberts,100,112,15,Made,1,76,72,148,h,Roberts 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0,338,2191.0
+,,0021400890,371,PT11M06.00S,4,1610612747,LAL,201941,Hill,J. Hill,-2,25,3,Made,1,76,74,150,v,Hill 3' Layup (4 PTS),Made Shot,Layup Shot,1,0,339,2214.0
+,,0021400890,373,PT10M41.00S,4,1610612747,LAL,202334,Davis,E. Davis,-117,28,12,Missed,1,,,0,v,MISS Davis 12' Jump Shot,Missed Shot,Jump Shot,1,0,342,2239.0
+,,0021400890,376,PT10M36.00S,4,1610612747,LAL,202391,Lin,J. Lin,13,1,1,Made,1,76,76,152,v,Lin 1' Driving Layup (12 PTS) (Johnson 1 AST),Made Shot,Driving Layup Shot,1,0,345,2244.0
+,,0021400890,377,PT10M18.00S,4,1610612766,CHA,203106,Taylor,J. Taylor,0,1,0,Made,1,78,76,154,h,Taylor Driving Dunk (2 PTS) (Ma. Williams 1 AST),Made Shot,Driving Dunk Shot,1,0,346,2262.0
+,,0021400890,390,PT09M51.00S,4,1610612747,LAL,201941,Hill,J. Hill,-65,173,18,Made,1,80,78,158,v,Hill 18' Jump Shot (6 PTS) (Davis 2 AST),Made Shot,Jump Shot,1,0,357,2289.0
+,,0021400890,392,PT09M19.00S,4,1610612747,LAL,202391,Lin,J. Lin,15,4,2,Made,1,80,80,160,v,Lin 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,0,359,2321.0
+,,0021400890,393,PT08M52.00S,4,1610612766,CHA,203148,Roberts,B. Roberts,-10,17,2,Made,1,82,80,162,h,Roberts 2' Driving Finger Roll Layup (4 PTS) (Ma. Williams 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,0,360,2348.0
+,,0021400890,395,PT08M23.00S,4,1610612766,CHA,202687,Biyombo,B. Biyombo,23,72,8,Missed,1,,,0,h,MISS Biyombo 8' Hook Shot,Missed Shot,Hook Shot,1,0,363,2377.0
+,,0021400890,402,PT08M12.00S,4,1610612747,LAL,201961,Ellington,W. Ellington,-8,26,3,Missed,1,,,0,v,MISS Ellington 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0,368,2388.0
+,,0021400890,404,PT07M53.00S,4,1610612766,CHA,2590,Williams,M. Williams,86,241,26,Missed,1,,,0,h,MISS Mo. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,370,2407.0
+,,0021400890,407,PT07M10.00S,4,1610612766,CHA,2744,Jefferson,A. Jefferson,-138,56,15,Made,1,84,80,164,h,Jefferson 15' Turnaround Jump Shot (19 PTS) (Mo. Williams 11 AST),Made Shot,Turnaround Jump Shot,1,0,374,2450.0
+,,0021400890,408,PT06M47.00S,4,1610612747,LAL,202325,Johnson,W. Johnson,-160,137,21,Made,1,84,82,166,v,Johnson 21' Jump Shot (8 PTS) (Hill 1 AST),Made Shot,Jump Shot,1,0,375,2473.0
+,,0021400890,409,PT06M25.00S,4,1610612766,CHA,2744,Jefferson,A. Jefferson,-15,14,2,Missed,1,,,0,h,MISS Jefferson 2' Layup,Missed Shot,Layup Shot,1,0,376,2495.0
+,,0021400890,411,PT06M19.00S,4,1610612747,LAL,202325,Johnson,W. Johnson,0,1,0,Made,1,84,84,168,v,Johnson Dunk (10 PTS) (Lin 8 AST),Made Shot,Dunk Shot,1,0,379,2501.0
+,,0021400890,421,PT05M54.00S,4,1610612747,LAL,202391,Lin,J. Lin,-138,225,26,Missed,1,,,0,v,MISS Lin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,385,2526.0
+,,0021400890,423,PT05M42.00S,4,1610612766,CHA,2590,Williams,M. Williams,-179,176,25,Missed,1,,,0,h,MISS Mo. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,387,2538.0
+,,0021400890,425,PT05M36.00S,4,1610612766,CHA,101107,Williams,M. Williams,-134,213,25,Missed,1,,,0,h,MISS Ma. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,389,2544.0
+,,0021400890,427,PT05M14.00S,4,1610612747,LAL,201941,Hill,J. Hill,143,93,17,Missed,1,,,0,v,MISS Hill 17' Jump Shot,Missed Shot,Jump Shot,1,0,391,2566.0
+,,0021400890,429,PT04M59.00S,4,1610612747,LAL,202391,Lin,J. Lin,9,4,1,Made,1,86,86,172,v,Lin 1' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,0,393,2581.0
+,,0021400890,430,PT04M44.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,230,7,0,Made,1,89,86,175,h,Henderson 3PT Jump Shot (18 PTS) (Mo. Williams 12 AST),Made Shot,Jump Shot,1,0,394,2596.0
+,,0021400890,431,PT04M23.00S,4,1610612747,LAL,201941,Hill,J. Hill,125,119,17,Made,1,89,88,177,v,Hill 17' Jump Shot (8 PTS) (Johnson 2 AST),Made Shot,Jump Shot,1,0,395,2617.0
+,,0021400890,432,PT04M06.00S,4,1610612766,CHA,2744,Jefferson,A. Jefferson,-10,9,1,Made,1,91,88,179,h,Jefferson 1' Layup (21 PTS) (Mo. Williams 13 AST),Made Shot,Layup Shot,1,0,396,2634.0
+,,0021400890,440,PT03M29.00S,4,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,1,0,Made,1,93,90,183,h,Kidd-Gilchrist Dunk (12 PTS) (Ma. Williams 3 AST),Made Shot,Dunk Shot,1,0,402,2671.0
+,,0021400890,441,PT03M10.00S,4,1610612747,LAL,202391,Lin,J. Lin,1,170,17,Missed,1,,,0,v,MISS Lin 17' Jump Shot,Missed Shot,Jump Shot,1,0,403,2690.0
+,,0021400890,443,PT02M54.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,171,37,17,Made,1,95,90,185,h,Henderson 17' Jump Shot (20 PTS) (Ma. Williams 4 AST),Made Shot,Jump Shot,1,0,405,2706.0
+,,0021400890,449,PT02M37.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,-29,263,26,Missed,1,,,0,v,MISS Clarkson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,408,2723.0
+,,0021400890,451,PT02M16.00S,4,1610612766,CHA,2744,Jefferson,A. Jefferson,-76,74,11,Missed,1,,,0,h,MISS Jefferson 11' Jump Shot,Missed Shot,Jump Shot,1,0,410,2744.0
+,,0021400890,453,PT02M05.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,2,25,3,Made,1,95,92,187,v,Clarkson 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,0,412,2755.0
+,,0021400890,454,PT01M46.00S,4,1610612766,CHA,2744,Jefferson,A. Jefferson,0,44,4,Missed,1,,,0,h,MISS Jefferson 4' Jump Shot,Missed Shot,Jump Shot,0,0,413,2774.0
+,,0021400890,467,PT01M19.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,56,247,25,Missed,1,,,0,v,MISS Clarkson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0,423,2801.0
+,,0021400890,468,PT01M00.00S,4,1610612766,CHA,2590,Williams,M. Williams,-68,247,26,Made,1,98,92,190,h,Mo. Williams 26' 3PT Jump Shot (15 PTS) (Jefferson 1 AST),Made Shot,Jump Shot,1,0,425,2820.0
+,,0021400890,469,PT00M54.60S,4,1610612747,LAL,202391,Lin,J. Lin,-146,71,16,Made,1,98,94,192,v,Lin 16' Jump Shot (18 PTS),Made Shot,Jump Shot,1,0,426,2825.4
+,,0021400890,476,PT00M31.90S,4,1610612766,CHA,201945,Henderson,G. Henderson,-142,97,17,Missed,1,,,0,h,MISS Henderson 17' Jump Shot,Missed Shot,Jump Shot,1,0,428,2848.1
+,,0021400890,478,PT00M22.80S,4,1610612747,LAL,201941,Hill,J. Hill,56,183,19,Missed,1,,,0,v,MISS Hill 19' Jump Shot,Missed Shot,Jump Shot,1,0,430,2857.2
+,,0021400890,510,PT00M09.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,-2,11,1,Made,1,101,98,199,v,Clarkson 1' Driving Layup (19 PTS) (Hill 2 AST),Made Shot,Driving Layup Shot,1,0,451,2871.0
+,,0021400890,525,PT00M04.80S,4,1610612747,LAL,201941,Hill,J. Hill,7,6,1,Made,1,103,100,203,v,Hill 1' Layup (10 PTS) (Johnson 3 AST),Made Shot,Layup Shot,1,0,460,2875.2
+,,0021400890,531,PT00M00.00S,4,1610612747,LAL,202391,Lin,J. Lin,-112,238,26,Made,1,104,103,207,v,Lin 26' 3PT Jump Shot (23 PTS),Made Shot,Jump Shot,1,0,465,2880.0
