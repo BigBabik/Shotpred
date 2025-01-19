@@ -53,3 +53,33 @@ def gather_mul_player_index(player_ids: Union[list, np.ndarray]) -> pd.DataFrame
         player = player.get_data_frames()[0]
         player_index.append(player)
     return pd.concat(player_index, ignore_index=True)
+
+
+def missing_values_summary(df):
+    """
+    Function to summarize missing values in a dataframe.
+    
+    Parameters:
+    df (pd.DataFrame): The dataframe to check for missing values.
+    
+    Returns:
+    pd.DataFrame: A dataframe summarizing the missing values for each column.
+    """
+    missing_values = df.isna().sum()
+    missing_percentage = (missing_values / len(df)) * 100
+    missing_summary = pd.DataFrame({'Missing Values': missing_values, 'Percentage': missing_percentage})
+    return missing_summary[missing_summary['Missing Values'] > 0].sort_values(by='Missing Values', ascending=False)
+
+
+def find_constant_columns(df):
+    """
+    Find columns with constant values in a DataFrame.
+    
+    Parameters:
+    df (pd.DataFrame): The dataframe to check for constant columns.
+    
+    Returns:
+    list: A list of column names with constant values.
+    """
+    constant_columns = [col for col in df.columns if df[col].nunique() == 1]
+    return constant_columns
