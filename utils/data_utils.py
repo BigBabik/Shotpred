@@ -3,6 +3,8 @@ from nba_api.stats.endpoints import playercareerstats, playerindex, playbyplayv3
 import pandas as pd
 import numpy as np
 from typing import Union
+from sklearn.model_selection import train_test_split
+
 
 def standarsize_clock(clock: str) -> str:
     m = re.match(r'^(\d{1,2}):(\d{2})$', clock)
@@ -83,3 +85,18 @@ def find_constant_columns(df):
     """
     constant_columns = [col for col in df.columns if df[col].nunique() == 1]
     return constant_columns
+
+
+def split_dataset(X, y, test_size=0.2, validation_size=0.25, random_state=1):
+    """
+    Split dataset into train, validation, and test sets
+    """
+    # First split: separate test set
+    X_temp, X_test, y_temp, y_test = train_test_split(X, y, test_size=test_size, random_state=random_state)
+    
+    # Second split: separate validation set from training set
+    X_train, X_val, y_train, y_val = train_test_split(
+        X_temp, y_temp, test_size=validation_size, random_state=42
+    )
+    
+    return X_train, X_val, X_test, y_train, y_val, y_test
