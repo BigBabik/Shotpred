@@ -96,7 +96,7 @@ def split_dataset(X, y, test_size=0.2, validation_size=0.25, random_state=1):
     
     # Second split: separate validation set from training set
     X_train, X_val, y_train, y_val = train_test_split(
-        X_temp, y_temp, test_size=validation_size, random_state=42
+        X_temp, y_temp, test_size=validation_size, random_state=random_state
     )
     
     return X_train, X_val, X_test, y_train, y_val, y_test
