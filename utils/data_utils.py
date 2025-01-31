@@ -84,6 +84,7 @@ def find_constant_columns(df):
     list: A list of column names with constant values.
     """
     constant_columns = [col for col in df.columns if df[col].nunique() == 1]
+    print(f'Found {len(constant_columns)} constant columns')
     return constant_columns
 
 
